@@ -1,0 +1,12 @@
+{
+   "animal": [
+      {
+         "name": "cart",
+         "option1": true
+      },
+      {
+         "name": "dog",
+         "option2": true
+      }
+   ]
+}

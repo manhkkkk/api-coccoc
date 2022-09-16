@@ -1,12 +1,81 @@
 {
    "animal": [
-      {
-         "name": "cart",
-         "option1": true
-      },
-      {
-         "name": "dog",
-         "option2": true
-      }
+     {
+       "name": "dog",
+       "options": [
+         true,
+         true,
+         true,
+         false,
+         false
+       ],
+       "id": 1
+     },
+     {
+       "name": "cart",
+       "options": [
+         true,
+         true,
+         true,
+         true,
+         true
+       ],
+       "id": 2
+     },
+     {
+       "name": "fish",
+       "options": [
+         true,
+         false,
+         true,
+         true,
+         true
+       ],
+       "id": 3
+     },
+     {
+       "name": "Alligator",
+       "options": [
+         true,
+         true,
+         true,
+         true,
+         true
+       ],
+       "id": 4
+     },
+     {
+       "name": "Unicorn",
+       "options": [
+         true,
+         true,
+         true,
+         true,
+         true
+       ],
+       "id": 5
+     },
+     {
+       "name": "Dragon",
+       "options": [
+         true,
+         true,
+         true,
+         true,
+         true
+       ],
+       "id": 6
+     },
+     {
+       "name": "Horse",
+       "options": [
+         true,
+         true,
+         true,
+         false,
+         false
+       ],
+       "id": 7
+     }
    ]
-}
+ }
